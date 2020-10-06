@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Aniruddha Choudhury, a Full Stack Developer   🚀 from India, Currently working  in 🙍🏽‍♂️ <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/ps-logo-NEW.svg"></code> [@Cognizant](https://www.cognizant.com/) and developing Microservices products with all Cloud like GCP,Azure.
+Hi, I'm Aniruddha Choudhury, a Full Stack Developer   🚀 from India, Currently working  in 🙍🏽‍♂️ [@Cognizant](https://www.cognizant.com/) and developing Microservices products with all Cloud like GCP,Azure.
 
 Apart from my research on Artificial intelligence , I enjoy listening music 🎧 and traveling 🏖️ and playing X-Boxgames 🎮.
 
