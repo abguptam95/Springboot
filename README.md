@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Aniruddha Choudhury, a Full Stack Developer   🚀 from India, Currently working  in 🙍🏽‍♂️ [@Cognizant](https://www.cognizant.com/) and developing Microservices products with all Cloud like GCP,Azure.
+Hi, I'm Abhinav Gupta, a Full Stack Developer   🚀 from India, Currently working  in 🙍🏽‍♂️ [@Cognizant](https://www.cognizant.com/) and developing Microservices products with all Cloud like GCP,Azure.
 
 Apart from my research on Artificial intelligence , I enjoy listening music 🎧 and traveling 🏖️ and playing X-Boxgames 🎮.
 
