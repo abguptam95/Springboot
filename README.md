@@ -24,7 +24,6 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 **Talking about Experiences/Achievements:**
 
 - 🥇 Former  Fullstack Developer. from IBM 👨🏽‍💻 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Wells_Fargo_Bank_logotype_logo_3D.jpg"></code> [@IBM](https://www.ibm.com/in-en)
-- 🎓 Contributor of Kubeflow community 👨🏽‍💼[@Kubeflow](https://www.kubeflow.org/) 
 - ⚡️  Techinical Blogger [Linkedin](https://www.linkedin.com/in/abguptam/)
 - 🤝 Certified Fullstack Developer from Udemy.
 - 💬 Ask me about anything, I am happy to help
